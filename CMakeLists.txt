@@ -52,6 +52,8 @@ set(
 	"${INCLUDE_PATH}/SFGUI/Engines/BREW.hpp"
 	"${INCLUDE_PATH}/SFGUI/Engines/Bob.hpp"
 	"${INCLUDE_PATH}/SFGUI/Engines/Bob/TextureManager.hpp"
+	"${INCLUDE_PATH}/SFGUI/Engines/Bob/StreamOperators.hpp"
+	"${INCLUDE_PATH}/SFGUI/Engines/Bob/StreamOperators.inl"
 	"${INCLUDE_PATH}/SFGUI/Entry.hpp"
 	"${INCLUDE_PATH}/SFGUI/FileResourceLoader.hpp"
 	"${INCLUDE_PATH}/SFGUI/Fixed.hpp"
